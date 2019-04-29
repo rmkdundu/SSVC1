@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package mypackage;
 
 import java.io.File;
@@ -21,10 +16,7 @@ import javax.crypto.KeyGenerator;
 import javax.crypto.NoSuchPaddingException;
 import javax.crypto.SecretKey;
 
-/**
- *
- * @author dhanoopbhaskar
- */
+
 public class EncryptFile {
 
     KeyGenerator keyGenerator = null;
